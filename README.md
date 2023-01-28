@@ -349,7 +349,8 @@ CONTACTUS.HTML
 ## OUTPUT:
 
 ### Home Page:
-![image](https://user-images.githubusercontent.com/119561118/215276730-41788a08-48de-4f8d-9606-bc5471eb0283.png)
+![image](https://user-images.githubusercontent.com/119561118/215277415-3c9a1866-91b1-4466-9ded-efeb0ae3b67c.png)
+
 
 ### Product :
 ![image](https://user-images.githubusercontent.com/119561118/215276800-597d585f-803f-4a01-86a4-f120e6b63980.png)
